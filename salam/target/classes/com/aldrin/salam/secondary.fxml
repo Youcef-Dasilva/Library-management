@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.aldrin.salam.SecondaryController">
+    <Label text="Welcome" layoutX="100" layoutY="100"/>
+</AnchorPane>
